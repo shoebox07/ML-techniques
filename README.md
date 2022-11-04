@@ -1,3 +1,1 @@
-# ML-techniques
-
-This repo contains different machine learning techniques coded from scratch. 
+Contains ML algorithms coded from scratch. 
